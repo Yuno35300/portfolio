@@ -27,7 +27,7 @@ const Experience = () => {
       description: "Mise en place d'une infrastructure complète Windows Server avec Active Directory, DNS, DHCP et stratégies de groupe.",
       icon: Server,
       details: "Ce projet a consisté en la mise en place d'une infrastructure Windows Server complète comprenant :\n\n- Installation et configuration de Windows Server 2019\n- Déploiement d'Active Directory\n- Configuration des services DNS et DHCP\n- Mise en place des stratégies de groupe (GPO)\n- Documentation complète de l'infrastructure",
-      pdfUrl: "/files/projets/windows-server.pdf"
+      pdfUrl: "https://cheroretkylian.fr/files/projets/windows-server.pdf"
     },
     {
       title: "Haproxy sous Linux",
