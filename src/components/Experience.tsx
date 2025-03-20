@@ -45,7 +45,7 @@ const Experience = () => {
       description: "Création d'environnement de teste grace à l'outil de vagrant.",
       icon: Cloud,
       details: "Utilisation de Vagrant pour des créations de labo cyber ou pour 'autre projet d'études",
-      pdfUrl: "/files/projets/Vagrant.pdf"
+      pdfUrl: "/https://cheroretkylian.fr/files/projets/Vagrant.pdf"
     },
     {
       title: "Administration Linux",
@@ -54,7 +54,7 @@ const Experience = () => {
       description: "Création d'un eco système linux afin de configurer un DHCP et mise en place d'un agent relay.",
       icon: Terminal,
       details: " \n\n-mise en place d'un environnement Linux servant à configurer un serveur DHCP (Dynamic Host Configuration Protocol) pour l'attribution automatique d'adresses IP sur un réseau.\n-Elle inclut également le déploiement d'un agent relais DHCP, qui permet de relayer les requêtes DHCP entre différents sous-réseaux lorsque le serveur DHCP n'est pas situé sur le même segment réseau que les clients.",
-      pdfUrl: "/files/Relay-Linux.pdf"
+      pdfUrl: "https://cheroretkylian.fr/files/projets/Relay-Linux.pdf"
     },
     {
       title: "Architecture Réseau",
@@ -81,7 +81,7 @@ const Experience = () => {
       description: "GLPI sur debian 12.",
       icon: Cloud,
       details: "Installation d'un GLPI sur une debian 12 en ligne de commande",
-      pdfUrl: "/files/projets/Glpidebian12.pdf"
+      pdfUrl: "https://cheroretkylian.fr/files/projets/Glpidebian12.pdf"
     },
     {
       title: "Support Utilisateurs",
