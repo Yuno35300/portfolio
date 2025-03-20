@@ -36,7 +36,7 @@ const Experience = () => {
       description: "Déploiement et configuration d'un pare-feu d'entreprise, mise en place de VPN et politique de sécurité.",
       icon: Shield,
       details: "Projet de sécuri(sation du réseau d'entreprise incluant :\n\n- Audit de sécurité initial\n- Installation et configuration du pare-feu\n- Mise en place d'un VPN site-à-site\n- Définition des politiques de sécurité\n- Formation des utilisateurs",
-      pdfUrl: "/files/projets/Haproxy.pdf"
+      pdfUrl: "https://cheroretkylian.fr/files/projets/Haproxy.pdf"
     },
     {
       title: "Vagrant",
