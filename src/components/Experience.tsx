@@ -44,7 +44,7 @@ const Experience = () => {
       period: "2024",
       description: "Création d'environnement de teste grace à l'outil de vagrant.",
       icon: Cloud,
-      details: "Utilisation de Vagrant pour des créations de labo cyber ou pour 'autre projet d'études"
+      details: "Utilisation de Vagrant pour des créations de labo cyber ou pour 'autre projet d'études",
       pdfUrl: "/files/projets/Vagrant.pdf"
     },
     {
